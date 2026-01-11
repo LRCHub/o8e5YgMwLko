@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "天使のニューゲーム",
+  "base_artist": "阿修",
+  "createdAt": "2026-01-11T13:35:41.878783Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天使のニューゲーム",
+      "artist": "阿修",
+      "has_synced": false,
+      "path": "select/pl_01_天使のニューゲーム_阿修.txt"
+    }
+  ]
+}
